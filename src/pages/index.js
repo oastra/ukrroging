@@ -18,49 +18,49 @@ export default function Home() {
         connect!
       </p>
 
-      {/* <form
-          action="https://ochernysh25.getform.com/8dmm8"
-          method="POST"
-          className="w-full max-w-md bg-white p-6 rounded shadow text-left"
+      <form
+        action="https://formbold.com/s/oaxPy"
+        method="POST"
+        className="w-full max-w-md bg-white p-6 rounded shadow text-left"
+      >
+        <p className="mb-4 text-sm text-gray-700">
+          Please leave your <strong>name</strong> and describe your current
+          situation — what your business does, and what kind of help you’re
+          looking for online. I’ll get back to you with a
+          <strong>free consultation</strong>.
+        </p>
+
+        <input
+          type="text"
+          name="name"
+          placeholder="Your Name"
+          required
+          className="w-full mb-3 p-2 border border-gray-300 rounded"
+        />
+        <input
+          type="mail"
+          name="mail"
+          placeholder="yourmail@yourmail.com"
+          required
+          className="w-full mb-3 p-2 border border-gray-300 rounded"
+        />
+
+        <textarea
+          name="message"
+          placeholder="Describe your business and what you need help with"
+          required
+          rows="5"
+          className="w-full mb-3 p-2 border border-gray-300 rounded"
+        />
+
+        <button
+          type="submit"
+          className="w-full bg-black text-white py-2 rounded hover:bg-gray-800 transition"
         >
-          <p className="mb-4 text-sm text-gray-700">
-            Please leave your <strong>name</strong> and describe your current
-            situation — what your business does, and what kind of help you’re
-            looking for online. I’ll get back to you with a
-            <strong>free consultation</strong>.
-          </p>
-
-          <input
-            type="text"
-            name="name"
-            placeholder="Your Name"
-            required
-            className="w-full mb-3 p-2 border border-gray-300 rounded"
-          />
-          <input
-            type="mail"
-            name="mail"
-            placeholder="yourmail@yourmail.com"
-            required
-            className="w-full mb-3 p-2 border border-gray-300 rounded"
-          />
-
-          <textarea
-            name="message"
-            placeholder="Describe your business and what you need help with"
-            required
-            rows="5"
-            className="w-full mb-3 p-2 border border-gray-300 rounded"
-          />
-
-          <button
-            type="submit"
-            className="w-full bg-black text-white py-2 rounded hover:bg-gray-800 transition"
-          >
-            Send Inquiry
-          </button>
-        </form> */}
-
+          Send Inquiry
+        </button>
+      </form>
+      {/* 
       <div className="w-full max-w-2xl rounded-md overflow-hidden">
         <iframe
           id="JotFormIFrame-251331958773061"
@@ -75,7 +75,7 @@ export default function Home() {
           allow="geolocation; microphone; camera; fullscreen"
           scrolling="no"
         />
-      </div>
+      </div> */}
 
       <p className="mt-8 text-sm">Made with ❤️ by Olha Chernysh</p>
     </div>
