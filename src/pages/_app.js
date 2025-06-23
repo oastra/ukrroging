@@ -20,6 +20,11 @@ export default function MyApp({ Component, pageProps }) {
             `,
           }}
         />
+
+        <meta
+          name="facebook-domain-verification"
+          content="wgkrfydrd2rpfihgk47e2j09ebnayr"
+        />
       </Head>
       <Component {...pageProps} />
     </>
