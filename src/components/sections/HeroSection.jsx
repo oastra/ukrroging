@@ -42,7 +42,7 @@ const HeroSection = () => {
               href="tel:+61477868730"
               className="text-xl md:text-2xl font-bold text-black hover:underline inline-block"
             >
-              0477 868 7300
+              0477 868 730
             </a>
           </div>
         </div>
