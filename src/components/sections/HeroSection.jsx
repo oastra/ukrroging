@@ -39,10 +39,10 @@ const HeroSection = () => {
             </p>
 
             <a
-              href="tel:+61477868730"
+              href="tel:+61404631472"
               className="text-xl md:text-2xl font-bold text-black hover:underline inline-block"
             >
-              0477 868 730
+              0404 631 472
             </a>
           </div>
         </div>
